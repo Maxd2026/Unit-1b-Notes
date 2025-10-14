@@ -13,6 +13,15 @@ public class Main {
     */
 
    public static void main(String []args) {
+      // Absolute Value .abs() method
+      // Methods with a RETURN VALUE (non-void)
+      // mean you need to "do something" with that output
+      Math.abs(-41);
+
       System.out.println("Hello World");
+
+
+
+      
    }
 }
